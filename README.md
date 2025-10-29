@@ -14,8 +14,7 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/98af0625-1934-4e9b-b801-813212a4519d" />
 
 ###
 
