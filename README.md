@@ -47,3 +47,11 @@
 <img src="https://raw.githubusercontent.com/0xPollos/0xPollos/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+
+### "Membangun Masa Depan Blockchain Indonesia Bersama"
+
+<img src="https://komarev.com/ghpvc/?username=bangpateng&style=flat-square&color=blue" alt="Profile views"/>
+
+
