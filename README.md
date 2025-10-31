@@ -50,8 +50,6 @@
 
 <div align="center">
 
-### "Membangun Masa Depan Blockchain Indonesia Bersama"
-
 <img src="https://komarev.com/ghpvc/?username=0pollos&style=flat-square&color=blue" alt="Profile views"/>
 
 
