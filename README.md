@@ -8,17 +8,15 @@
 - 📚 I'm currently learning more about automation programs 🤖 and Cybersecurity 👻
 - 🎯 Goals: creating tools that can facilitate activities in exploring the internet
 
-###
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xpollos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div>
 
-###
-<img align="right" height="150" src="https://github.com/user-attachments/assets/98af0625-1934-4e9b-b801-813212a4519d" />
+---
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -32,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@0xpollos"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> </a>
   <a href="https://www.instagram.com/0x_rayne/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <a href="https://discord.gg/A2yKYsJFxp"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
@@ -40,11 +38,11 @@
   <a href="https://www.linkedin.com/in/rizqidaffazka/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/0xPollos/0xPollos/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
